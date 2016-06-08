@@ -1,4 +1,4 @@
-Css3-Page-Transitions-with-Dynamic-Navigation
+CSS3 Page Transitions with Dynamic Navigation
 =============================================
 
 Dynamic Page Transitions with Css3
